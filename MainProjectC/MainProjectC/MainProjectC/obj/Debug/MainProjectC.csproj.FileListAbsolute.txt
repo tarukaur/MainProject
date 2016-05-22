@@ -1,0 +1,8 @@
+C:\Projects\MainProjectC\MainProjectC\MainProjectC\bin\Debug\MainProjectC.exe.config
+C:\Projects\MainProjectC\MainProjectC\MainProjectC\bin\Debug\MainProjectC.exe
+C:\Projects\MainProjectC\MainProjectC\MainProjectC\bin\Debug\MainProjectC.pdb
+C:\Projects\MainProjectC\MainProjectC\MainProjectC\obj\Debug\MainProjectC.csprojResolveAssemblyReference.cache
+C:\Projects\MainProjectC\MainProjectC\MainProjectC\obj\Debug\MainProjectC.Properties.Resources.resources
+C:\Projects\MainProjectC\MainProjectC\MainProjectC\obj\Debug\MainProjectC.csproj.GenerateResource.Cache
+C:\Projects\MainProjectC\MainProjectC\MainProjectC\obj\Debug\MainProjectC.exe
+C:\Projects\MainProjectC\MainProjectC\MainProjectC\obj\Debug\MainProjectC.pdb
