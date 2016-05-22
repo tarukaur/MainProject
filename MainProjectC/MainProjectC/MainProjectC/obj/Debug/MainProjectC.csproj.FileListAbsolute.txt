@@ -6,3 +6,6 @@ C:\Projects\MainProjectC\MainProjectC\MainProjectC\obj\Debug\MainProjectC.Proper
 C:\Projects\MainProjectC\MainProjectC\MainProjectC\obj\Debug\MainProjectC.csproj.GenerateResource.Cache
 C:\Projects\MainProjectC\MainProjectC\MainProjectC\obj\Debug\MainProjectC.exe
 C:\Projects\MainProjectC\MainProjectC\MainProjectC\obj\Debug\MainProjectC.pdb
+C:\Users\thanspal\Desktop\MainProject\MainProjectC\MainProjectC\MainProjectC\bin\Debug\MainProjectC.exe.config
+C:\Users\thanspal\Desktop\MainProject\MainProjectC\MainProjectC\MainProjectC\obj\Debug\MainProjectC.exe
+C:\Users\thanspal\Desktop\MainProject\MainProjectC\MainProjectC\MainProjectC\obj\Debug\MainProjectC.pdb
